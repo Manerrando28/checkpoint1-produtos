@@ -12,3 +12,4 @@ C:\Users\Administrador\Checkpoint1\obj\Debug\net8.0\refint\Checkpoint1.dll
 C:\Users\Administrador\Checkpoint1\obj\Debug\net8.0\Checkpoint1.pdb
 C:\Users\Administrador\Checkpoint1\obj\Debug\net8.0\Checkpoint1.genruntimeconfig.cache
 C:\Users\Administrador\Checkpoint1\obj\Debug\net8.0\ref\Checkpoint1.dll
+C:\Users\Administrador\Checkpoint1\obj\Debug\net8.0\Checkpoint1.sourcelink.json
