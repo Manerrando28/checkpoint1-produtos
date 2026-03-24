@@ -1,0 +1,14 @@
+C:\Users\Administrador\Checkpoint1\bin\Debug\net10.0\Checkpoint1.exe
+C:\Users\Administrador\Checkpoint1\bin\Debug\net10.0\Checkpoint1.deps.json
+C:\Users\Administrador\Checkpoint1\bin\Debug\net10.0\Checkpoint1.runtimeconfig.json
+C:\Users\Administrador\Checkpoint1\bin\Debug\net10.0\Checkpoint1.dll
+C:\Users\Administrador\Checkpoint1\bin\Debug\net10.0\Checkpoint1.pdb
+C:\Users\Administrador\Checkpoint1\obj\Debug\net10.0\Checkpoint1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Checkpoint1\obj\Debug\net10.0\Checkpoint1.AssemblyInfoInputs.cache
+C:\Users\Administrador\Checkpoint1\obj\Debug\net10.0\Checkpoint1.AssemblyInfo.cs
+C:\Users\Administrador\Checkpoint1\obj\Debug\net10.0\Checkpoint1.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Checkpoint1\obj\Debug\net10.0\Checkpoint1.dll
+C:\Users\Administrador\Checkpoint1\obj\Debug\net10.0\refint\Checkpoint1.dll
+C:\Users\Administrador\Checkpoint1\obj\Debug\net10.0\Checkpoint1.pdb
+C:\Users\Administrador\Checkpoint1\obj\Debug\net10.0\Checkpoint1.genruntimeconfig.cache
+C:\Users\Administrador\Checkpoint1\obj\Debug\net10.0\ref\Checkpoint1.dll

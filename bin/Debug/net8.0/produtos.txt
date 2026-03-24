@@ -1,0 +1,11 @@
+1;mouse;99.90;50
+2;calculadora;34.90;55
+3;caderno;25.90;30
+4;lapis;15.90;80
+5;apontador;23.90;60
+2;calculadora;34.90;55
+6;livro;61.90;5
+7;borracha;12.90;11
+8;papel;5.99;100
+9;caneta;2.99;1;2.99
+10;estojo;25.90
